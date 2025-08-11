@@ -1,0 +1,64 @@
+# Data Privacy & Confidentiality – Reflection
+
+## 1. Key Takeaways from Focus Bear’s Privacy Policy
+- **Data Controller:** Focus Bear Pty Ltd is the “Controller” under privacy laws (GDPR), with ‘by Data’ appointed as its EU Representative and Data Protection Officer.
+- **Data Collected:** Includes identification data (e.g., email), lifestyle/habit data, occupation, marketing preferences, technical data (device type, OS), payment info, survey responses, and limited sensitive data (e.g., ADHD status or habits that imply religion/health).
+- **Purpose of Processing:** Customer management, service delivery, troubleshooting, marketing (opt-in), social media engagement, and legal compliance.
+- **Legal Basis:** Consent, contract performance, legal obligation, or legitimate interest.
+- **Data Retention:** Kept only as long as needed for its purpose, with anonymisation for longer-term statistical use.
+- **Third-Party Processors:** Includes trusted services such as Stripe (payments), AWS (hosting), Auth0 (authentication), OpenAI (AI features), and others — all required to follow GDPR or equivalent frameworks.
+- **Security:** Technical and organisational measures to maintain confidentiality, integrity, and availability, with ongoing review and audits.
+
+---
+
+## 2. Types of Confidential Data at Focus Bear
+- **User Personal Data:** Email, login credentials, habits, survey responses, payment details.
+- **Operational Data:** Internal communications, project plans, bug reports, analytics.
+- **Sensitive Data:** Optional health or religious-related habits, ADHD/autism survey results.
+
+---
+
+## 3. Best Practices for Handling Confidential Data
+- Only access data necessary for your role (“least privilege” principle).
+- Store data only on approved secure systems (e.g., authorised cloud storage).
+- Use strong passwords + MFA for all accounts.
+- Avoid unencrypted sharing — use company-approved communication tools.
+- Be cautious with sensitive categories (e.g., health data) and keep anonymisation intact.
+
+---
+
+## 4. Responding to a Suspected Data Breach
+1. **Immediate Reporting:** Notify privacy@focusbear.io and/or the DPO without delay.
+2. **Preserve Evidence:** Retain logs, error reports, or relevant communications.
+3. **Containment:** Secure affected systems/accounts and limit further access.
+4. **Follow GDPR Protocols:** Support any required notifications to supervisory authorities.
+
+---
+
+## 5. Reflection – Handling Data Securely in Daily Tasks
+- Use only approved tools for storing/sharing documents.
+- Log out after each session and lock devices when unattended.
+- Keep marketing and sensitive data separate from general operational data.
+- Follow all opt-in/opt-out rules for communications.
+
+---
+
+## 6. Common Mistakes Leading to Privacy Issues & How to Avoid Them
+| Mistake | Risk | Prevention |
+|---------|------|------------|
+| Using personal accounts for work data | Loss of control over confidential data | Always use company-provided tools |
+| Sending sensitive info via insecure channels | Data interception | Use encrypted, approved platforms |
+| Retaining data longer than needed | Regulatory breach | Follow retention policies |
+| Not anonymising health/religion data | GDPR violation | Ensure anonymisation & limited access |
+
+---
+
+## 7. Improvement Habit to Adopt
+- **Weekly Data Check:** Review all stored files and delete/archive anything not required for ongoing work.
+
+---
+
+## 8. Key Learning / Security Measure to Implement
+- I will **handle any ADHD, health, or habit-related user data only in anonymised form** and ensure no personal identifiers are linked to it unless explicitly needed and approved.
+
+---
