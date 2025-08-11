@@ -1,0 +1,44 @@
+# Kanban Workflow – Research & Reflection
+
+## 1. Research & Learn
+
+### How a Kanban Board Works
+A Kanban board is a visual workflow management tool that tracks tasks as they move through different stages of completion.  
+- Tasks are represented as “cards” and organised into columns that reflect workflow stages.
+- The board allows teams to see work in progress, prioritise tasks, and identify bottlenecks.
+
+### Common Kanban Board Columns
+| Column        | Purpose |
+|---------------|---------|
+| **Backlog**   | Tasks that are identified but not yet started. |
+| **In Progress** | Tasks currently being worked on. |
+| **Blocked**   | Tasks that cannot proceed due to dependencies or issues. |
+| **Done**      | Completed tasks that meet acceptance criteria. |
+
+### How Tasks Move Through the Board
+- Tasks start in **Backlog** and are pulled into **In Progress** when someone begins work.
+- If work is halted due to a dependency, the task moves to **Blocked** until resolved.
+- Once finished and verified, the task is moved to **Done**.
+- The **assignee** is responsible for updating the card’s status as progress is made.
+
+### Benefits of Limiting Work in Progress (WIP)
+- Prevents team members from juggling too many tasks at once.
+- Improves focus and quality by reducing context switching.
+- Makes it easier to spot bottlenecks.
+- Shortens cycle times and improves delivery speed.
+
+---
+
+## 2. Reflection
+
+### How Kanban Helps Manage Priorities & Avoid Overload
+- Visualising the workflow makes priorities clear at a glance.
+- WIP limits ensure only the most important tasks are actively being worked on.
+- Bottlenecks are easier to identify, enabling faster problem-solving.
+
+### How I Can Improve My Workflow Using Kanban Principles
+- Break larger financial analysis or fundraising tasks into smaller, trackable cards.
+- Update card statuses daily to reflect accurate progress.
+- Use WIP limits to avoid starting too many grant research or reporting tasks at once.
+
+
