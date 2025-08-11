@@ -1,0 +1,37 @@
+# Agile Ceremonies & Team Collaboration
+
+## 1. Research & Learn
+
+### Main Agile Ceremonies & Purpose
+
+| Ceremony | Purpose |
+|----------|---------|
+| **Daily Stand-ups** | Short (10–15 min) meeting to share progress, plans, and blockers; keeps the team aligned daily. |
+| **Sprint Planning (Scrum)** | Define goals and select tasks for the upcoming sprint; agree on scope and priorities. |
+| **Continuous Prioritisation (Kanban)** | Ongoing adjustment of priorities as new work arrives; team pulls work from the top of the backlog when ready. |
+| **Retrospectives** | Reflect on what went well, what didn’t, and actions to improve in the next cycle. |
+| **Backlog Refinement** | Review, update, and clarify backlog items so they’re ready for upcoming work; ensures tasks are well-defined and prioritised. |
+
+---
+
+### Asynchronous & Cross-Time-Zone Collaboration in Agile
+- Use **shared Kanban boards** or project management tools (e.g., GitHub Projects, Jira, Trello) so work status is visible anytime.
+- Document decisions, priorities, and blockers in **written updates** rather than relying only on meetings.
+- Use **async stand-ups** (written in Slack, Notion, or similar) when time zones make live meetings difficult.
+- Keep communication **concise and context-rich** to reduce back-and-forth delays.
+- Record key meetings or provide summaries so absent team members can catch up.
+
+---
+
+## 2. Reflection
+
+### How Agile Ceremonies Help with Communication & Alignment
+- Ensure everyone knows **what’s being worked on, by whom, and what’s blocking progress**.
+- Create regular feedback loops to catch issues early.
+- Aligns team efforts to the most important business goals.
+- Encourages transparency and shared ownership of outcomes.
+
+### Most Important Ceremony for My Role
+- **Daily Stand-ups** – As a Finance/Fundraising Intern, I often have dependencies on others for data, approvals, or updates on features linked to budget or grants. Stand-ups give me a fast, structured way to:
+  - Flag blockers (e.g., waiting on financial figures or grant application details).
+  - Stay aware of team priorities so I can align my financial analysis or research.
