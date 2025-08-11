@@ -1,0 +1,70 @@
+# Module 1: Agile Principles & Frameworks
+
+## 1. Research & Learn
+
+### What is Agile & How It Differs from Traditional Project Management
+- **Agile:** An iterative, flexible approach to project management focused on delivering value in small increments, adapting quickly to change, and involving stakeholders continuously.
+- **Traditional (Waterfall):** A linear, sequential approach where all requirements are defined upfront, and each phase (design, build, test, deliver) is completed before moving to the next.
+- **Key Difference:** Agile embraces change at any stage, whereas traditional methods resist scope changes after planning.
+
+### Core Values of Agile (Agile Manifesto)
+1. **Individuals and interactions** over processes and tools.
+2. **Working software** over comprehensive documentation.
+3. **Customer collaboration** over contract negotiation.
+4. **Responding to change** over following a plan.
+
+### Core Principles of Agile (examples from the 12 Principles)
+- Deliver value early and continuously.
+- Welcome changing requirements.
+- Collaborate daily between business and technical teams.
+- Maintain a sustainable pace of work.
+- Reflect and adjust regularly to improve.
+
+### Scrum vs Kanban
+
+| Feature        | Scrum | Kanban |
+|----------------|-------|--------|
+| **Structure**  | Time-boxed sprints (usually 2–4 weeks) | Continuous flow of work |
+| **Roles**      | Defined roles (Product Owner, Scrum Master, Development Team) | No mandatory roles |
+| **Planning**   | Sprint planning & backlog grooming | Continuous prioritisation |
+| **Metrics**    | Velocity, burndown charts | Cycle time, throughput |
+| **When to Use**| Projects with clear sprint goals, stable teams | Continuous delivery, variable priorities |
+
+### Why Focus Bear Leans Towards Kanban
+- Work is **continuous** (no fixed sprint cycles).
+- Priorities can change rapidly depending on customer needs or internal goals.
+- Smaller team structure doesn’t require formal Scrum roles.
+- Kanban provides visual flow, flexibility, and WIP limits without the overhead of sprint ceremonies.
+
+---
+
+## 2. Reflection
+
+### Benefits of Agile
+- **Adaptability:** Can adjust quickly to new requirements.
+- **Transparency:** Visual tools (e.g., Kanban board) keep everyone informed.
+- **Faster delivery:** Smaller, iterative releases mean value reaches users sooner.
+- **Collaboration:** Frequent communication between team members.
+
+### Challenges of Agile
+- Requires discipline to keep boards, tasks, and priorities updated.
+- Can feel less predictable without fixed long-term timelines.
+- Risk of scope creep if priorities constantly shift.
+
+### How Agile Principles Can Improve My Role
+- Use **continuous feedback** to refine financial reporting or process automation.
+- Prioritise tasks based on value and urgency instead of a fixed list.
+- Break large goals (e.g., grant research or financial model building) into smaller, trackable deliverables.
+
+---
+
+## 3. Task
+
+### Scrum vs Kanban (In My Own Words)
+Scrum is like working in short, focused “game rounds” where you agree on what to finish and don’t change the plan until the round ends. Kanban is more like a constantly moving conveyor belt—you can add or remove items anytime, but you limit how many are in progress so nothing gets stuck.
+
+### Agile Principle Most Useful to My Work
+**“Responding to change over following a plan.”**  
+In finance and grant work, priorities can shift suddenly—funding opportunities pop up, budgets change, or urgent analysis is needed. Being comfortable adapting ensures I deliver value in real time without being slowed by rigid plans.
+
+---
