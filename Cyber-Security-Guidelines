@@ -1,0 +1,74 @@
+# Cyber Security – Reflection
+
+## 1. Research & Learn
+
+### Common Cyber Security Threats in Remote Work
+- **Phishing attacks** via email or chat messages.
+- **Malware** from unverified downloads or infected USB devices.
+- **Credential theft** through weak or reused passwords.
+- **Unsecured Wi-Fi** networks allowing data interception.
+- **Social engineering** tactics to trick users into revealing sensitive information.
+
+### Best Practices for Secure Devices & Accounts
+- Use **strong, unique passwords** for all accounts.
+- Enable **two-factor authentication (2FA)** wherever possible.
+- Keep operating systems and software updated.
+- Avoid using public Wi-Fi without a VPN.
+- Lock devices when away from the desk.
+- Use **company-approved apps and tools** for storing and sharing information.
+
+### Importance of Locking Your Computer
+- Prevents unauthorised access to company systems or sensitive data when you step away.
+- Reduces the risk of accidental changes or misuse by someone else.
+
+### Handling Phishing Attempts & Suspicious Links
+- Verify sender identity before clicking any link or opening attachments.
+- Look for **spelling errors**, unusual requests, or mismatched URLs.
+- Report suspicious messages to the designated IT/security contact immediately.
+- Never enter credentials into a site unless you are sure it’s legitimate.
+
+### Strong Password Practices & Password Managers
+- A strong password is long (12+ characters), contains a mix of letters, numbers, and symbols, and avoids common words.
+- A password manager securely stores and generates strong passwords, reducing reuse and human error.
+
+### Importance of Two-Factor Authentication (2FA)
+- Adds a second layer of protection even if your password is compromised.
+- Should be enabled on **all work-related accounts** and any account containing sensitive or personal data.
+
+---
+
+## 2. Reflection
+
+### Current Security Measures I Follow
+- Use unique passwords for most accounts.
+- Keep my laptop and phone set to auto-lock after a short period.
+- Enable 2FA on email and critical work accounts.
+
+### Areas for Improvement
+- Move all passwords into a secure **password manager**.
+- Avoid using similar passwords across multiple low-priority accounts.
+
+### Making Secure Behaviour a Habit
+- Set a weekly reminder to check software updates.
+- Always lock the screen when stepping away, even for a minute.
+- Be proactive in reporting suspicious activity.
+
+### Steps to Ensure Password & Account Security
+- Transfer credentials to a password manager.
+- Enable 2FA for all Focus Bear accounts and relevant personal accounts.
+- Avoid saving passwords in plain text or browser autofill without encryption.
+
+### What I Would Do if I Suspected a Breach
+1. Immediately change passwords for affected accounts.
+2. Disconnect from the network if malware is suspected.
+3. Notify Focus Bear’s security contact or manager.
+4. Follow company’s incident response process.
+
+---
+
+## 3. Task
+
+**New Cyber Security Habit:**  
+I will **use a password manager for all work accounts** and enable 2FA wherever possible to ensure my login credentials remain secure.
+
+---
